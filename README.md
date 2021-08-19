@@ -21,7 +21,8 @@ A sequence of most probable words learned by the model
 
 -	We can also use the F0.5 score, i.e. the harmonic mean of the precision and the recall with twice the emphasis on precision
 
-## Loss: Masked Categorical Crossentropy is used as the loss function.
+## Loss: 
+Masked Categorical Crossentropy is used as the loss function.
 
 ## Business Constraints: 
 -	We want the system to have high precision and prefer the system predict correctly rather than predict incorrect predictions. 
