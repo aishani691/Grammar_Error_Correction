@@ -1,5 +1,5 @@
 # Grammar_Error_Correction
-Correction of grammar of input sentence using Deep Learning networks
+Correction of grammar of input sentence using neural networks
 
 ## ML formulation of the problem:
 The problem is a sequence to sequence problem. Given an input sequence the model learns the probability of occurrence of the output sequence. For this task, the input sequence is a grammatically incorrect sequence and the output is the grammatically correct version of it.
