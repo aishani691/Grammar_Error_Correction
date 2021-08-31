@@ -29,3 +29,6 @@ Masked Categorical Crossentropy is used as the loss function.
 -	Low latency is always preferred. 
 -	Also, since the problem involves taking a grammatically incorrect text as input, when deployed on a server we want optimized handling of input data with low computational resources and power preferably.
 
+## Medium article: 
+https://medium.com/analytics-vidhya/grammatical-error-correction-machines-understanding-and-correcting-errors-in-text-21638203ca9f
+
